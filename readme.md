@@ -1,6 +1,8 @@
-## Challenge Hackathon
+# Challenge Hackathon
 
-####     Como equipo tenemos el desafío de crear una solución/producto con la temática de "consumo de películas". Para esto hemos creado un producto digital llamado **Watch this** que te invitamos a conocer.
+Como equipo tenemos el desafío de crear una solución/producto con la temática de "consumo de películas". Para esto hemos creado un producto digital llamado **Watch this** que te invitamos a conocer.
+
+![image](https://user-images.githubusercontent.com/32306592/37985583-821ac62a-31cf-11e8-98a3-efbd8281a819.png)
 
 # Watch this
 
